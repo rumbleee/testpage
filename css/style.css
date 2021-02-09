@@ -1,0 +1,157 @@
+html,body
+{
+    background-color:#000000;
+    /*background-image:url(../images/background.png);*/
+    background-repeat:no-repeat;
+    background-position:top center;
+
+}
+
+.myblock { display: block; }
+.padding-0 { padding: 0px !important; }
+.display_inline { display: inline; }
+.bold { font-weight:900 !important; }
+.center { text-align: center; }
+.sque {
+
+    background-color:#000000;
+    /*background-image:url(../images/background.png);*/
+    background-repeat:no-repeat;
+    background-position:top center;
+
+}
+.pagination {
+    margin-top:0px;
+}
+
+.breadcrumb {
+    margin-bottom:0px;
+}
+
+.logo {}
+
+.tdsmall {
+    font-size:11px;
+}
+
+.news-prev {
+    padding-right:20px;
+}
+
+.noty_width {
+    width:250px !important;
+}
+
+
+.ui-autocomplete {
+    font-size:12px !important;
+    max-height: 250px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+    /* add padding to account for vertical scrollbar */
+    padding-right: 20px;
+}
+/* IE 6 doesn't support max-height
+* we use height instead, but this forces the menu to always be this tall
+*/
+* html .ui-autocomplete {
+    height: 250px;
+}
+
+.tdsmall .label {
+    font-size: 1em;
+}
+
+.navbar {
+    max-width: 100vw;
+}
+
+.checker-info {
+    position: absolute;
+    right: 5px;
+}
+
+@media (max-width: 980px) {
+    .checker-info {
+        clear: both;
+        text-align: center;
+        position: relative;
+        width: 100vw;
+    }
+}
+
+.three-columns {
+      /* Количество колонок */
+      -webkit-column-count : 3;
+      -moz-column-count    : 3;
+      column-count         : 3;
+
+      /* промежуток между колонками */
+      -webkit-column-gap   : 10px;
+      -moz-column-gap      : 10px;
+      column-gap           : 10px;
+    }
+
+.three-columns li {
+  display: inline-block;
+  vertical-align: top;
+  width: 105%;
+}
+
+.spoiler_body {
+    display: none;
+    cursor: pointer;
+}
+a {
+    color: #2a9fd6 !important;
+    text-decoration: none;
+}
+
+.auth_error {
+    font-size: 28px;
+    color: red;
+    text-align: center;
+}
+
+.spoilerButton {
+    width: 85%;
+    padding: 10px 0 10px 0;
+    color: white;
+    cursor: pointer;
+    transition: width 1s;
+    border-radius: 5px;
+    }
+
+a.spoilerButton:hover {
+    color: #fff;
+    background-color: red;
+}
+
+.spoilerText {
+    float: right;
+    width: 70%;
+    height: 0px;
+    padding: 0 15px 0 15px;
+    margin: 0 10px 0 10px;
+    display: block;
+    color: #2a9fd6;
+    overflow: hidden;
+    transition: height 1s;
+    text-align: left;
+}
+
+a.btn {
+    padding: 0;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline
+}
+
+a.spoilerButton:hover {
+    color: #fff;
+    background-color: red;
+}
+
