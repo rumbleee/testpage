@@ -1,0 +1,167 @@
+2021/02/10 15:28:49 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/10 15:29:08 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/10 15:29:29 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/10 15:30:42 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/10 15:36:51 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/10 15:38:26 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/10 15:38:29 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/10 15:39:51 [error] [exception.CHttpException.403] CHttpException: You are not allowed to access this page. in /opt/lampp/htdocs/yii-master/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/index.php/gii
+---
+2021/02/11 17:10:43 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "index". in /opt/lampp/htdocs/yii-master/framework/web/CController.php:486
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(270): CController->missingAction('')
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('json')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/json
+---
+2021/02/11 17:11:48 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "index". in /opt/lampp/htdocs/yii-master/framework/web/CController.php:486
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(270): CController->missingAction('')
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('json')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/json
+---
+2021/02/11 17:23:51 [error] [exception.ParseError] ParseError: syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /opt/lampp/htdocs/yii-master/testpage/protected/controllers/TestController.php:5
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(276): CWebApplication->createController('')
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('test')
+#2 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#3 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#4 {main}
+REQUEST_URI=/yii-master/testpage/test
+---
+2021/02/11 17:27:24 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "index". in /opt/lampp/htdocs/yii-master/framework/web/CController.php:486
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(270): CController->missingAction('')
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('json')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/json
+---
+2021/02/11 17:27:55 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "index". in /opt/lampp/htdocs/yii-master/framework/web/CController.php:486
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(270): CController->missingAction('')
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('json')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/json
+---
+2021/02/11 17:27:59 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "index". in /opt/lampp/htdocs/yii-master/framework/web/CController.php:486
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(270): CController->missingAction('')
+#1 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): CController->run('')
+#2 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController('json')
+#3 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii-master/testpage/json
+---
+2021/02/11 18:57:29 [error] [php] Illegal string offset 'coins' (/opt/lampp/htdocs/yii-master/testpage/protected/views/json/index.php:10)
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(872): JsonController->renderFile()
+#1 /opt/lampp/htdocs/yii-master/framework/web/CController.php(785): JsonController->renderPartial()
+#2 /opt/lampp/htdocs/yii-master/testpage/protected/controllers/JsonController.php(5): JsonController->render()
+#3 /opt/lampp/htdocs/yii-master/framework/web/actions/CInlineAction.php(49): JsonController->actionIndex()
+#4 /opt/lampp/htdocs/yii-master/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /opt/lampp/htdocs/yii-master/framework/web/CController.php(286): JsonController->runAction()
+#6 /opt/lampp/htdocs/yii-master/framework/web/CController.php(265): JsonController->runActionWithFilters()
+#7 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): JsonController->run()
+#8 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii-master/testpage/json
+2021/02/11 19:00:01 [error] [php] Array to string conversion (/opt/lampp/htdocs/yii-master/testpage/protected/views/json/index.php:6)
+Stack trace:
+#0 /opt/lampp/htdocs/yii-master/framework/web/CController.php(872): JsonController->renderFile()
+#1 /opt/lampp/htdocs/yii-master/framework/web/CController.php(785): JsonController->renderPartial()
+#2 /opt/lampp/htdocs/yii-master/testpage/protected/controllers/JsonController.php(5): JsonController->render()
+#3 /opt/lampp/htdocs/yii-master/framework/web/actions/CInlineAction.php(49): JsonController->actionIndex()
+#4 /opt/lampp/htdocs/yii-master/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /opt/lampp/htdocs/yii-master/framework/web/CController.php(286): JsonController->runAction()
+#6 /opt/lampp/htdocs/yii-master/framework/web/CController.php(265): JsonController->runActionWithFilters()
+#7 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(282): JsonController->run()
+#8 /opt/lampp/htdocs/yii-master/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /opt/lampp/htdocs/yii-master/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /opt/lampp/htdocs/yii-master/testpage/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii-master/testpage/json
